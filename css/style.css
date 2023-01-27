@@ -148,6 +148,7 @@ section{
     width: 70%;
     animation: aparecer 5s ease-out;
 }
+ 
 
 @keyframes aparecer{
     from{
